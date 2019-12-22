@@ -1,0 +1,27 @@
+body{background:black;}
+
+
+.post{
+width: 330px;
+height: 450px;
+background:white;
+margin: auto;
+margin-top: 50px;
+font-size: small;
+}
+
+.js{width: 15px; margin-top: 5px;}
+
+.menu{width: 10px; margin-top: 5px;}
+
+div .menu{float: right;}
+
+.imagen{width: 330px;}
+
+.corazon, .mensaje, .enviar{width: 25px;}
+
+.bandera{width: 20px;float:right}
+
+div .instagram{margin:20px;}
+
+p{font-size: 11px; }
